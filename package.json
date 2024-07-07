@@ -2,7 +2,7 @@
   "name": "ellipto-iptv",
   "version": "0.1.0",
   "description": "Ellipto IPTV is a progressive web app to watch m3u and m3u8 playlists",
-  "homepage": "https://elliptoiptv.vercel.app",
+  "homepage": "https://iptv.vercel.app",
   "author": {
     "name": "Md Mobinur Rahaman",
     "email": "mobinurrahaman@gmail.com"
